@@ -1,0 +1,7 @@
+POST http://localhost:8080/sendMessage
+Content-Type: application/json
+
+{
+  "number": 15,
+  "action": "min"
+}
